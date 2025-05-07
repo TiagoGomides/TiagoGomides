@@ -60,7 +60,7 @@ Projetos em destaque: [`Educagil`]()
 <br/>
 
 
-[<img align="left" height="94px" width="94px" alt="Pipocgil" src="./img/Pipoca agil.png"/>](https://pipocaagil.com.br/)
+[<img align="left" height="94px" width="94px" alt="Pipoca agil" src="./img/Pipocagil.png"/>](https://pipocaagil.com.br/)
 
 **Desenvolvedor Front end** \
 [**Pipoca Agil**](https://pipocaagil.com.br/) • Freelance \
