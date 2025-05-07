@@ -51,7 +51,7 @@ const tiago = {
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Metis" src="./img/Metis.png"/>](https://www.linkedin.com/company/equipemetis/posts/?feedView=all)
+[<img align="left" height="94px" width="94px" alt="Metis" src="./img/metis.png"/>](https://www.linkedin.com/company/equipemetis/posts/?feedView=all)
 
 **Desenvolvedor Front end** \
 [**Metis**](https://www.linkedin.com/company/equipemetis/posts/?feedView=all) • Voluntario \
@@ -60,15 +60,15 @@ Projetos em destaque: [`Educagil`]()
 <br/>
 
 
-[<img align="left" height="94px" width="94px" alt="Pipoca agil" src="./img/Pipoca agil.png"/>](https://pipocaagil.com.br/)
+[<img align="left" height="94px" width="94px" alt="Pipocgil" src="./img/Pipoca agil.png"/>](https://pipocaagil.com.br/)
 
 **Desenvolvedor Front end** \
 [**Pipoca Agil**](https://pipocaagil.com.br/) • Freelance \
-Linguagens & Tecnologias: *`Next.js`*, *`Tailwind`*, *`Jest`*, *`Cypress`**`Git`*,*`GitHub`*,*`ClikUp`*.\
+Linguagens & Tecnologias: *`Next.js`*, *`Tailwind`*, *`Jest`*, *`Cypress`*`Git`*,*`GitHub`, `ClikUp` .\
 Projetos em destaque: [`Educagil`]()
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="TT-T" src="./img/TT-T.png"/>](hhttps://www.linkedin.com/company/tt-t-solu%C3%A7%C3%B5es-em-inform%C3%A1tica-ltda/)
+[<img align="left" height="94px" width="94px" alt="TT-T" src="./img/t.png"/>](hhttps://www.linkedin.com/company/tt-t-solu%C3%A7%C3%B5es-em-inform%C3%A1tica-ltda/)
 
 **Frot-end Developer (Estagio)** \
 [**TT&T Soluções em Informática Ltda**](https://www.linkedin.com/company/tt-t-solu%C3%A7%C3%B5es-em-inform%C3%A1tica-ltda/) • Estagio \
@@ -88,7 +88,7 @@ Linguagens & Tecnologias: *`Java`*,*`Html`*,*`Css`*,*`React`*,*`Sql`*,*`NoSql`*,
 Projetos em destaque: [`A tecnologia da informação como ferramenta de desenvolvimento`](), [`Dashboard de Controle Empresarial`](https://drive.google.com/file/d/1HbLPBdCTzpWWyQqad6JJmOMkiNefEA5R/view?usp=sharing)
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="frontpush" src="./img/FrontPUSH.png"/>](https://frontpush.com.br/)
+[<img align="left" height="94px" width="94px" alt="frontpush" src="./img/Front.png"/>](https://frontpush.com.br/)
 
 **Frontpush** \
 [**Frontpush**](https://frontpush.com.br/) • Curso Livre \
