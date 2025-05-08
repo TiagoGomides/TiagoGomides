@@ -26,14 +26,14 @@ Desenvolvedor Front-End desde 2021, apaixonado por inovação, usabilidade e sol
 
 ## 👨‍🚀 Modo Desenvolvedor: ATIVADO
 
-```bash
+```ts
 > npx tiagogomides
 > dev gomides --focus "React | Next | UX"
 > status --online
 > coffee --strong
 > motto "Desenvolva com propósito ☕"
 ```
-```js
+```ts
 const tiago = {
   viciadoEm: ["café", "usabilidade", "componentes reutilizáveis"],
   poderesEspeciais: ["Storybook Ninja", "Dark Mode Evangelist"],
@@ -51,7 +51,7 @@ const tiago = {
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Metis" src="./img/metis.png"/>](https://www.linkedin.com/company/equipemetis/posts/?feedView=all)
+[<img align="left" height="94px" width="94px" alt="Metis" src="./img/Metis.png"/>](https://www.linkedin.com/company/equipemetis/posts/?feedView=all)
 
 **Desenvolvedor Front end** \
 [**Metis**](https://www.linkedin.com/company/equipemetis/posts/?feedView=all) • Voluntario \
@@ -72,7 +72,7 @@ Projetos em destaque: [`Educagil`]()
 
 **Frot-end Developer (Estagio)** \
 [**TT&T Soluções em Informática Ltda**](https://www.linkedin.com/company/tt-t-solu%C3%A7%C3%B5es-em-inform%C3%A1tica-ltda/) • Estagio \
-Linguagens & Tecnologias: *`JavaScript`*, *`Node`*, *`React`*, *`React Native`*, *`Html`*, *`Css`**`Git`*,*`GitHub`*,*`Trelo`*,*`Jira`*.\
+Linguagens & Tecnologias: *`JavaScript`*, *`Node`*, *`React`*, *`React Native`*, *`Html`*, *`Css`*, *`Git`*,*`GitHub`*,*`Trelo`*,*`Jira`*.\
 Projetos em destaque: [`HI100`](), [`Testes de Estagiarios`](https://github.com/TiagoGomides/Desafio-de-Nivelamento-TT-T-Acelere-sua-evolucao-como-desenvolvedor)
 <br/>
 
@@ -84,7 +84,7 @@ Na visão geral abaixo você encontrará meus cursos e especializaçoes mais rec
 
 **Sistemas de Informaçao** \
 [**XPE**](https://www.xpeducacao.com.br/) • Bacharel \
-Linguagens & Tecnologias: *`Java`*,*`Html`*,*`Css`*,*`React`*,*`Sql`*,*`NoSql`*,*`Figma`*,*`MongoDB`*.\
+Linguagens & Tecnologias: *`Java`*,*`Html`*,*`Css`*,*`React`*,*`Sql`*,*`NoSql`*,*`Figma`*,*`MongoDB`*,*`Docker`* .\
 Projetos em destaque: [`A tecnologia da informação como ferramenta de desenvolvimento`](), [`Dashboard de Controle Empresarial`](https://drive.google.com/file/d/1HbLPBdCTzpWWyQqad6JJmOMkiNefEA5R/view?usp=sharing)
 <br/>
 
